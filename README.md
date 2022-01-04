@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there
+I'm famfo, or Thilo. I do some stuff, like coding stuff in Rust 🦀. I also am a giant Linux nerd.<br>
+I manage to somehow write bad issues on some repos.<br>
+<br>
+Most of my projects are on a friends [gitea](https://git.karx.xyz/famfo).
 
-<!--
-**famfo/famfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some interesting stuff I worked 
+- [async-circe](https://docs.rs/async-circe/latest/async_circe/) - an async IRC crate written in Rust.
+- [frogfetch](https://github.com/famfo/frogfetch-rs) - get some information about your system, but frogged.
+- One project of a small operating system in Rust, which sadly was abandoned.
 
-Here are some ideas to get you started:
+<hr>
+  
+Fun fact: developing on and for Windows in Rust is annoying and I hate it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=famfo&show_icons=true&locale=en" alt="karx1" /></p>
